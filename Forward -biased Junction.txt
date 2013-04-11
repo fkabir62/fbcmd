@@ -1,0 +1,10 @@
+/* Forward -biased Junction*/
+
+/* Description */
+
+When positive terminal of battery is connected to p-side and negative terminal to N-side of P-N junction,
+holes in p-side are repelled by the positive terminal and electrons in N-side are repelled by the negative
+terminal with the result that both the electrons and holes are driven towards the junction where they recombine.The internal potential barrier at the junction
+is reduced.if the applied bias voltage is increased from zero,the barrier potential gets progressively smaller until it effectively
+disappears and charge carriers can easily flow across to the negative terminal of the battery on the N-side.Thus a majority carrier current flows and the junction is said to be forward biase
+shows the forward characteristics of a p-n junction.
